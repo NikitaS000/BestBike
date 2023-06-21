@@ -1,0 +1,44 @@
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+}
+p {
+    font-size: 28px;
+    font-weight: lighter;
+}
+.bike-box {
+    margin: auto;
+    width: 100%;
+    min-height: 10px;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 25px;
+    display: flex;
+    justify-content: center;
+}
+.bike-img {
+    width: 500px;
+    height: 375px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.cont {
+    max-width: 675px;
+}
+.bike1 {
+    margin-right: 25px;
+    background-image: url(media/image\ 6\ \(3\).png);
+}
+.bike2 {
+    margin-left: 25px;
+    background-image: url(media/PropelWebNewsLead.jpg);
+}
+.bike3 {
+    margin-right: 25px;
+    background-image: url(media/scott_bike_stories_02.jpg);
+}
+.bike4 {
+    margin-left: 25px;
+    background-image: url(media/cannondale-scalpel-ht-2022.jpg);
+}
